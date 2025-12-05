@@ -80,6 +80,9 @@ This dashboard helps Swiggy (or any delivery platform):
 
 ## 📸 Dashboard Preview:
 
+<img width="1769" height="836" alt="Swiggy Dashboard Snapshot" src="https://github.com/user-attachments/assets/e27be1da-71c5-4fc6-a872-2141e9376810" />
+
+
 ---
 
 ## 👨‍💻 Author  
