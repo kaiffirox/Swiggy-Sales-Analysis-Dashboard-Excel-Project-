@@ -78,6 +78,10 @@ This dashboard helps Swiggy (or any delivery platform):
 
 ---
 
+## 📸 Dashboard Preview:
+
+---
+
 ## 👨‍💻 Author  
 **Mohammad Kaif Firoz**  
 Excel • SQL • Power BI • Tableau • Python  
